@@ -1,0 +1,174 @@
+No Kartu Kredit: 12213123
+CVV: 1231231
+Expiry Date: 1231
+Kupon: 058
+harga: $ 58.48
+
+No Kartu Kredit: amirganterng@gmail.com
+CVV: asdasd123
+Expiry Date: 1231
+Kupon: 058
+harga: $ 71.78
+
+No Kartu Kredit: amirganterng@gmail.com
+CVV: asdasd123
+Expiry Date: 1231
+Kupon: 058
+harga: $ 43.40
+
+No Kartu Kredit: amirganterng@gmail.com
+CVV: asdasd123
+Expiry Date: 1231
+Kupon: 058
+harga: $ 60.20
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 
+harga: $ 19.00
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 068
+harga: $ 43.00
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 068
+harga: $ 62.00
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 068
+harga: $ 81.00
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 068
+harga: $ 81.00
+
+No Kartu Kredit: asdas
+CVV: asdasd
+Expiry Date: asda
+Kupon: 058
+harga: $ 73.50
+
+No Kartu Kredit: asdas
+CVV: asdasd
+Expiry Date: asda
+Kupon: 058
+harga: $ 86.80
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 058
+harga: $ 16.80
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 058
+harga: $ 16.80
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 058
+harga: $ 13.30
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 058
+harga: $ 30.10
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 
+harga: $ 19.00
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 
+harga: $ 19.00
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 
+harga: $ 111.55
+
+No Kartu Kredit: 
+CVV: 
+Expiry Date: 
+Kupon: 058
+harga: $ 78.09
+
+No Kartu Kredit: 123123
+CVV: 123123
+Expiry Date: 1231
+Kupon: 058
+harga: $ 18.20
+
+No Kartu Kredit: 1231212
+CVV: 123123
+Expiry Date: 1231
+Kupon: 123123
+harga: $ 83.55
+
+No Kartu Kredit: 1231212
+CVV: 123123
+Expiry Date: 1231
+Kupon: 123123
+harga: $ 83.55
+
+No Kartu Kredit: 1231212
+CVV: 123123
+Expiry Date: 1231
+Kupon: 123123
+harga: $ 83.55
+
+No Kartu Kredit: 1231212
+CVV: 123123
+Expiry Date: 1231
+Kupon: 123123
+harga: $ 83.55
+
+No Kartu Kredit: 1231212
+CVV: 123123
+Expiry Date: 1231
+Kupon: 
+harga: $ 78.55
+
+No Kartu Kredit: 1231212
+CVV: 123123
+Expiry Date: 1231
+Kupon: 2131231
+harga: $ 78.55
+
+No Kartu Kredit: 1231212
+CVV: 123123
+Expiry Date: 1231
+Kupon: 058
+harga: $ 54.98
+
+No Kartu Kredit: sdfsd
+CVV: 234234werew
+Expiry Date: dsfs
+Kupon: 058
+harga: $ 16.80
+
+No Kartu Kredit: sdfsd
+CVV: 234234werew
+Expiry Date: dsfs
+Kupon: 054
+harga: $ 24.00
+

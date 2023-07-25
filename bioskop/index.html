@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="CodeHim">
+    <title>Bioskop XXI Anggun</title>
+    
+   
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+      
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
+    <script src="https://www.w3schools.com/lib/w3.js"></script>  
+     <!-- Style CSS -->
+     <link rel="stylesheet" href="css/style.css">
+     <!-- Demo CSS  -->
+     <link rel="stylesheet" href="css/demo.css">
+  
+  </head>
+  <body>
+ <header class="intro">
+
+ <h1 style="font-size: 3.2rem; font-weight:600">Bioskop 
+  <span style="color:gold; font-weight:bolder; font-style:italic;">XXI</span>
+</h1>
+ <p>Adi Suswintara - 2200018058</p>
+
+
+ 
+
+ </header>
+  
+      
+ <main>
+   
+     
+<figure class="snip">                <!-- first -->
+    <h4>Drive</h4>
+    <div class="image">
+      <img class="slide1" src="./img/ryan 1.jpg" />
+      <img class="slide1" src="./img/drive 2.jpg" style="display:none;" />
+      <img class="slide1" src="./img/ryan 3.jpg" style="display:none;" />
+      <img class="slide1" src="./img/ryan 4.jpg" style="display:none;" />
+    </div>
+    <button class="prev" onclick="plusDivs(-1)">&#10094;&#10094;</button>
+    <button class="next" onclick="plusDivs(1)">&#10095;&#10095;</button>
+    <figcaption>
+      <p>Seorang sopir, bekerja paruh waktu sebagai mekanik yang membuatnya bertemu dan jatuh cinta dengan tetangganya. Dia melindunginya ketika keadaan menjadi buruk setelah mengalami perampokan.</p>    
+      <div class="price">
+        <s>$24.00</s><div class="real" data-price="19.00">$19.00</div>
+      </div>
+    </figcaption>
+    <a class="add-to-cart" href="#">Add to Cart</a>
+  </figure>
+  
+  <figure class="snip">                <!-- second -->
+    <h4 style="font-size: 19px;">Blade Runner 2049</h4>
+    <div class="image">
+      <img class="slide2" src="./img/blade 1.jpg" />
+      <img class="slide2" src="./img/blade 2.jpg" style="display:none;" />
+      <img class="slide2" src="./img/blade 3.jpg" style="display:none;" />
+      <img class="slide2" src="./img/blade 4.jpg" style="display:none;" />
+    </div>
+    <button class="prev" onclick="plusDivs2(-1)">&#10094;&#10094;</button>
+    <button class="next" onclick="plusDivs2(1)">&#10095;&#10095;</button>
+    <figcaption>
+      <p>Adi, seorang polisi LAPD, mengungkap sebuah rahasia lama yang dapat memicu sebuah kekacauan di dunia. Ia lantas mencari seorang mantan anggota blade runner yang telah menghilang selama tiga dekade.</p>    
+      <div class="price">
+        <s>$29.00</s><div class="real" data-price="24.00">$24.00</div>
+      </div>
+    </figcaption>
+    <a class="add-to-cart" href="#">Add to Cart</a>
+  </figure>
+  
+  <figure class="snip">               <!-- third -->
+    <h4>Batman</h4>
+    <div class="image">
+      <img class="slide3" src="./img/batman 1.jpg" />
+      <img class="slide3" src="./img/batman 2.jpg" style="display:none;" />
+      <img class="slide3" src="./img/batman 3.jpg" style="display:none;" />
+      <img class="slide3" src="./img/batman 4.jpeg" style="display:none;" />
+    </div>
+    <button class="prev" onclick="myslide.previous()">&#10094;&#10094;</button>
+    <button class="next" onclick="myslide.next()">&#10095;&#10095;</button>
+    <figcaption>
+      <p>Ketika Riddler, seorang pembunuh berantai yang sadis mulai membunuh tokoh-tokoh politik penting di Gotham, Batman dituntut untuk menyelidiki korupsi tersembunyi di kota itu dan mempertanyakan keterlibatan keluarganya.</p>    
+      <div class="price">
+        <s>$22.00</s><div class="real" data-price="14.55">$14.55</div>
+      </div>
+    </figcaption>
+    <a class="add-to-cart" href="#">Add to Cart</a>
+  </figure>
+  
+  <figure class="snip">               <!-- Fourth -->
+    <h4>Taxi Driver</h4>
+    <div class="image">
+      <img class="slide4" src="./img/taxi 1.jpg" />
+      <img class="slide4" src="./img/taxi 2.jpg" style="display:none;" />
+      <img class="slide4" src="./img/taxi 3.jpg" style="display:none;" />
+      <img class="slide4" src="./img/taxi 4.jpg" style="display:none;" />
+    </div>
+    <button class="prev" onclick="plusDivs3(-1)">&#10094;&#10094;</button>
+    <button class="next" onclick="plusDivs3(1)">&#10095;&#10095;</button>
+    <figcaption>
+      <p>Travis, mantan marinir di perang Vietnam, bekerja sebagai sopir taksi di New York City. Suatu hari, ia memutuskan untuk menyelamatkan seorang pelacur di bawah umur dan membersihkan kota dari korupsi.</p>    
+      <div class="price">
+        <s>$35.00</s><div class="real" data-price="26.00">$26.00</div>
+      </div>
+    </figcaption>
+    <a class="add-to-cart" href="#">Add to Cart</a>
+  </figure>
+  <a class="cart" href="javascript:void(0);" title="Your Cart">
+    <img src="./img/cart.png" />
+    <span id="count-item" data-count="0">0 item</span>
+  </a>
+  <!-- --------------------Check out ---------------- -->
+  <div class="checkout-container">
+    <div class="table">
+    <span class="empty">Your cart is empty!</span>
+
+    <div class="col1-name"></div>
+    <div class="col2-price"></div>
+    </div>
+    <div class="bin"><span>Clear All</span><img id="bin" src="./img/delete.png" style="width:40px" /></div>
+    <div class="total">
+      <div class="total-text">Total :</div>
+      <div class="total-amount">$ 0</div>
+    </div>
+    <div class="checkout" onclick="document.getElementById('id01').style.display='block'">Check out</div>
+    
+  </div>
+  
+          <!-- -----------------Bill------------- -->
+ <div id="id01" class="modal">
+  <div class="wrapper">
+    
+    <div class="bill-content">
+    <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close">&times;</span>
+    <h1 class="box-title">Checkout</h1>
+  <form action="submit.php" method="POST">
+    <div class="price-total">
+      <span>PAY</span>
+      <div class="pay-last" ></div>
+      
+      <!-- <p  class="pay-last" name="harga" style="display:none;"></p> -->
+
+    </div>
+    
+    
+      <div class="form-text">
+        <label>Card Number</label>
+        <input name="card-number" type="text" required>
+      </div>
+      <div class="form-text">
+        <label>Card Verification Value</label>
+        <input name="cvv" type="text" placeholder="CVV" required>
+      </div>
+      <div class="form-text" id="col01">
+        <label>Expiry Date</label>
+        <input name="date" type="text" placeholder="MM/YY" maxlength="4" required>
+      </div>
+      <div class="form-text"  id="col02">
+        <label>Coupon Code</label>
+        <input name="coupon" type="text">
+      </div>
+      
+      <button type="submit" id="end">PAY NOW</button>
+  </form>
+      <button id="coupon">Get coupon code</button>
+    </div>
+  </div>
+ </div> 
+     
+     <!-- END EDMO HTML -->
+ </main>
+
+  <footer style="background-color: black;" class="credit"><a style="color: white; font-weight:700; font-size:1.5rem;">Adi Keren</a></footer>
+  
+
+ <script  src="./js/script.js"></script>
+      
+
+  </body>
+
+  
+</html>
